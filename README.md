@@ -1,0 +1,1 @@
+# NoSQL-burger-app-wide-column-db
